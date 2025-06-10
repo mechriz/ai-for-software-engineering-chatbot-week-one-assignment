@@ -1,1 +1,1 @@
-# ai-for-software-engineering-chatbot-week-one-assignment
+This chatbot mimics basic AI decision-making using rule-based logic. It matches user inputs with predefined patterns and responds based on stored data. By analyzing keywords like "trending" or "sustainable," it selects appropriate cryptocurrency advice. Though simple, it demonstrates foundational AI behavior—pattern recognition, conditional logic, and data-driven responses.# ai-for-software-engineering-chatbot-week-one-assignment
